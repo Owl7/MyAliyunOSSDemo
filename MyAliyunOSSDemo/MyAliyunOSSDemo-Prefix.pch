@@ -1,0 +1,16 @@
+//
+//  MyAliyunOSSDemo-Prefix.pch
+//  MyAliyunOSSDemo
+//
+//  Created by Crack on 2017/11/28.
+//  Copyright © 2017年 Crack. All rights reserved.
+//
+
+#ifndef MyAliyunOSSDemo_Prefix_pch
+#define MyAliyunOSSDemo_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "OSSConstants.h"
+#import <Foundation/Foundation.h>
+#endif /* MyAliyunOSSDemo_Prefix_pch */
